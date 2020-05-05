@@ -1,0 +1,9 @@
+custom_css:
+  version: 1.0
+  css:
+    theme:
+      css/custom.css: {}
+      'https://fonts.googleapis.com/icon?family=Material+Icons': { type: external }
+  js:
+    js/profile.js: {}
+    'https://maps.googleapis.com/maps/api/js?key=AIzaSyCzFI1LkEV1yumNDTBf6_uBn3MnmgVFqyM': { type: external, minified: true }
